@@ -1,0 +1,267 @@
+.content .node-candidate-information div div{
+width:50%;
+}
+
+.content div label{
+float:left;
+padding-right:20px;
+width:30%;
+}
+
+.content div input[type='text']{
+width:40%;
+}
+
+.content #edit-field-ci-gender-und div:first-child{
+float:left;
+padding-right:10px;
+margin-top:-1px;
+}
+
+#field-ci-date-of-birth-add-more-wrapper fieldset{
+border:none;
+height:0px;
+}
+ 
+#edit-field-ci-date-of-birth-und-0-value div label{
+visibility:hidden;
+}
+
+#edit-field-ci-date-of-birth-und-0-value div:first-child{
+margin-top:-76px;
+margin-left:175px;
+width:100%;
+}
+ 
+
+#field-ci-date-of-birth-add-more-wrapper fieldset legend .fieldset-legend{
+font-weight: bold;
+margin-left: -23px;
+}
+
+.content div div div .description{
+padding-left:33%;
+}
+#edit-field-ci-date-of-birth-und-0-value div .description{
+  margin-left: -118px;
+}
+ 
+.content #edit-field-ci-gender-und div:last-child{
+padding-top:7px;
+}
+
+.form-item-field-ci-gender-und #edit-field-ci-gender-und-1{
+margin-left: -170px;
+}
+
+#edit-field-ci-gender-und > div:nth-child(1){
+padding-top:6px;
+}
+
+#node- > div > div.field.field-label-inline.clearfix > div.field-label {
+width:200px;
+}
+
+#edit-field-ci-mobile-number-und-0-number{
+width:29%;
+}
+
+#post-content > div.region.region-content > div.preview > h3:nth-child(1){
+visibility:hidden;
+}
+
+#post-content > div.region.region-content > div.preview > div > div.field.field-label-inline.clearfix > div.field-label{
+width:200px;
+}
+
+
+#edit-submit-view-list-of-candidates{
+  margin-top: -1px;
+  margin-left: -53px;
+}
+
+
+#node-5{
+height:15px;
+}
+
+#post-content > div.region.region-content > div.preview > h3:nth-child(3){
+visibility:hidden;
+}
+
+#node-5 > footer > ul > li > a{
+visibility:hidden;
+}
+
+#node-5 > header{
+  margin-top: -75px;
+  padding-top: 30px;
+}
+
+#candidate-information-node-form--2 div #edit-field-ci-date-of-birth div fieldset {
+  border: none;
+  margin-bottom: -58px;
+}
+
+#field-ci-date-of-birth-add-more-wrapper--2 > fieldset > legend > span{
+	font-weight: bold;
+        margin-left: -22px;
+}
+.page-node-.page-node-edit .messages {
+ visibility: hidden !important;
+ height:0px !important;
+ }
+/*.page-node-.page-node-edit .page-title{
+  margin-top: -36px;
+}*/ 
+.page-list-of-candidates #edit-submit-list-of-candidates{
+  margin-top: -1px;
+  margin-left: -50px;
+}
+
+#views-exposed-form-list-of-candidates-page > div > div > div{
+margin-bottom:25px;
+}
+
+#post-content > h1 > em{
+ display: hidden;
+}
+
+/*
+.page-node-5 #wrap #main #post-content .page-title{
+margin-top: -7px;
+/*margin-left: -321px; 
+}
+ 
+/*
+.page-node-edit #post-content .page-title {
+margin-top: -7px;
+margin-left: -321px;
+}
+#post-content > div.messages.status{
+visibility: hidden;
+}
+
+/*.page-node-edit.page-title em{
+ visibility: hidden;
+ }
+*/
+
+/*.page-node-add .messages {
+ visibility: hidden !important;
+ height:0px !important;
+ }
+.page-node-add .page-title{
+  margin-top: -36px;
+} */
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fri-candidate-name > span{
+width:50%;
+float:left;
+color:black;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-ci-mobile-number > span {
+width:50%;
+float:left;
+color:black;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-ci-email-id >span {
+width:50%;
+float:left;
+color:black;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-ci-gender >span{
+width:50%;
+float:left;
+color:black;
+}
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > span{
+margin-left:23px;
+font-size:20px;
+color:black;
+line-height:20px !important;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul {
+list-style:none;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li {
+width:45%;
+border:1px solid black;
+float :left;
+margin:4px;
+padding:4px;
+padding-top:6px;
+background-color:#D4D4D2;
+-moz-box-shadow: 0 0 20px #ccc; 
+-webkit-box-shadow: 0 0 20px #ccc; 
+box-shadow: 0 0 20px #ccc; 
+}
+
+#main .field-label{
+color:#707070;
+
+}
+
+#views-exposed-form-candidateinfo-page > div > div > div > div.views-exposed-widget.views-submit-button > #edit-submit-candidateinfo {
+margin-top:1px;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-type-of-interview.field-type-list-text.field-label-above > div.field-label{
+display:none;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-type-of-interview.field-type-list-text.field-label-above > div.field-items > div{
+font-size:20px;
+color:#262626;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-type-of-interview.field-type-list-text.field-label-inline.clearfix > div.field-label{
+width:65.5%;
+float:left;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-performance.field-type-list-text.field-label-inline.clearfix > div.field-label{
+width:65.5%;
+float:left;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-is-selected.field-type-list-text.field-label-inline.clearfix > div.field-label{
+width:65.5%;
+float:left;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-description.field-type-text-long.field-label-inline.clearfix > div.field-label{
+width:65.5%;
+float:left;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-name-of-the-interviewer.field-type-text.field-label-inline.clearfix > div.field-label{
+float:left;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-type-of-interview.field-type-list-text.field-label-inline.clearfix > div.field-items > div{
+color:black;
+}
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-name-of-the-interviewer.field-type-text.field-label-inline.clearfix > div.field-items > div{
+color:black;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-performance.field-type-list-text.field-label-inline.clearfix> div.field-items > div{
+color:black;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-is-selected.field-type-list-text.field-label-inline.clearfix > div.field-items > div{
+color:black;
+}
+
+#block-system-main > div > div > div.view-content > table > tbody > tr > td > div.views-field.views-field-field-fs-interview-details > div > div > ul > li > div > div > div.field.field-name-field-description.field-type-text-long.field-label-inline.clearfix> div.field-items > div{
+color:black;
+}
+
+
+
